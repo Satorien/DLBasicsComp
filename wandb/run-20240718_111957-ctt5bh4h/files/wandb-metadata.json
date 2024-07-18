@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-07-18T02:19:58.639834",
+    "startedAt": "2024-07-18T02:19:57.817722",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\rsato\\Codes\\DL_basic\\Comp\\DLBasicsComp\\main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/Satorien/DLBasicsComp.git",
+        "commit": "1d26b7196e2a0254c410fcbe03780b446f1580b2"
+    },
+    "email": "rs912jp@gmail.com",
+    "root": "C:/Users/rsato/Codes/DL_basic/Comp/DLBasicsComp",
+    "host": "stori22",
+    "username": "rsato",
+    "executable": "C:\\Users\\rsato\\anaconda3\\envs\\dlbasics\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1506.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1506.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "total": 951.5986289978027,
+        "used": 520.240119934082
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 31.746440887451172
+    }
+}
